@@ -2,7 +2,7 @@
     "version": 2,
     "builds": [
       {
-        "src": "dist/bundleName.js",
+        "src": "js/bundleName.js",
         "use": "@vercel/node"
       }
     ],
