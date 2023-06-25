@@ -1,0 +1,42 @@
+# Blender 3.5.0 MTL File: 'uploads_files_2913683_RACKING+SHELF.blend'
+# www.blender.org
+
+newmtl frame
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/user/Downloads/Textures/Frame/RACKING SHELF_frame_BaseMap.png
+
+newmtl shelf
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/user/Downloads/Textures/Shelf/RACKING SHELF_shelf_BaseMap.png
+
+newmtl side_arms
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/user/Downloads/Textures/Side arms/RACKING SHELF_side arms_BaseMap.png
+
+newmtl supports
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/user/Downloads/Textures/Supports/RACKING SHELF_supports_BaseMap.png
